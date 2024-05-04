@@ -1,0 +1,402 @@
+.greenee {
+    padding: 90px 100px !important;
+    background:  #d9f0ff;
+    
+}
+
+.cardess {
+   
+    border-radius: 10px;
+    padding: 140px 50px !important;
+    filter: drop-shadow(9px 10px 13px rgba(0, 0, 0, 0.16));
+    background: #ffffff;
+    margin:30px 20px !important;
+}
+
+
+
+.whoops {
+    font-size: 45px;
+    font-family: "poppins";
+    text-align: left;
+    font-weight:650;
+}
+
+.unable {
+    font-size: 22px;
+    font-family: "poppins";
+    text-align: left;
+    font-weight:600;
+}
+.fileimg{
+    margin: 0px 10px;
+}
+
+.Again {
+    font-size:22px;
+    border-color: #007bffb0;
+    border-width: 2px;
+    border-style: solid;
+    font-family: "poppins";
+    border-radius: 5px;
+    font-weight: 500;
+    color: #007bffb0;
+    padding: 10px 20px;
+   
+}
+
+
+
+.cardcs {
+
+    width: 1051px;
+    height: 600px;
+    margin: 60px 0px;
+    border-color: #707070;                              
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 41px;
+    margin-left: 90px !important;
+    filter: drop-shadow(9px 10px 13px rgba(0, 0, 0, 0.16));
+
+    background: #ffffff
+}
+
+.newcerti {
+    margin-left: 40px;
+}
+
+
+
+.verify .bow {
+    height: 100px;
+}
+
+.Enter {
+    width: 870px;
+    height: 85px;
+    border-radius: 14px;
+    background: #e3e2e2;
+
+}
+
+.form-label {
+    opacity: 0.71 !important;
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #3375f6;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+
+/* ::placeholder{
+    color: #3375F6 !important ;
+    font-size:20px;
+    opacity: 0.9 !important;
+  } */
+  
+
+.each {
+
+    font-family: "poppins";
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    color: #707070;
+
+}
+
+.btn5 {
+    padding: 12px 1px;
+    border-radius: 30px;
+    filter: drop-shadow(4px 4px 3.5px rgba(0, 0, 0, 0.51));
+    background: #3375f6;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 350px;
+    font-family: "poppins";
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    width: 150px;
+}
+
+
+
+.bubble {
+        
+    background: #3375F6;
+    opacity: 0.9;
+    padding: 30px 10px;
+   
+}
+
+.cardvs {
+    border-radius: 21px;
+    filter: drop-shadow(9px 10px 13px rgba(0, 0, 0, 0.16));
+    background: #ffffff;
+    padding: 30px 10px;
+    margin: 20px 100px !important;
+}
+
+.fully {}
+
+.okay {
+    color: white;
+    font-family: "poppins";
+    background: #3375F6;
+    padding: 12px 50px;
+    font-size: 22px;
+    border: 0;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+    font-weight: 500;
+    margin: 30px 10px;
+    color: #ffffff;
+    filter: drop-shadow(3px 4px 2.5px rgba(0, 0, 0, 0.51));
+}
+.okay:hover {
+    color:white;    
+}
+.blue1 {
+    font-size: 40px;
+    font-family: "poppins";
+    text-align: center;
+}
+
+.account1 {
+    font-size: 20px;
+    font-family: "poppins";
+    text-align: center;
+}
+
+
+.round1 {
+    height: 120px;
+    }
+.candidate {
+    font-size:18px ;
+}
+.domain {
+    font-size:16px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 415px) {
+    .greenee {
+        padding: 30px 1px !important;
+    }
+        
+        .cardess {
+            padding:40px 10px !important;
+            margin:50px 20px !important;
+        }
+        
+        .whoops{
+                padding: 10px 10px;
+                font-size: 24px !important;
+                font-weight: 650;
+                text-align: left;
+        }
+        .unable{
+            margin-top: -15px !important;
+            font-size: 8px !important;
+            font-weight: 650;
+            text-align: left;
+            padding: 10px 10px;
+        }
+        .Again {
+            /* margin-top: -16px !important; */
+            font-size: 10px; 
+            width:100px;
+            padding:5px 10px;
+            margin: -15px 10px;
+        }
+        .fileimg{
+            height: 100% !important;
+            /* margin-top: 15px;  */
+            margin: 10px 5px !important;
+        }
+        .cardcs {
+            height: 260px;
+            width: 380px;
+            margin-left: 0px !important;
+            margin: 20px 0px;
+        }
+    
+        .newcerti {
+            margin-left: -5px;
+            margin-top: -30px;
+    
+        }
+    
+        /* .verify h1 {
+            font-size: 20px;
+            font-weight: normal;
+            font-style: normal;
+            text-align: left;
+            margin-left: 8px !important;
+        } */
+    
+        .verify .bow {
+            height: 40px;
+            margin-left: 290px;
+            margin-top: -90px !important;
+        }
+    
+        .Enter {
+            margin-top: -100px;
+            margin-left: 0px !important;
+            width: 310px;
+            height: 40px;
+        }
+    
+        /* .form-label {
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            text-align: left;
+            margin-top: 10px;
+    
+        } */
+    
+        /* input[type=text] {
+            width: 300px;
+            padding: 0px 10px;
+            margin-top: -20px !important;
+            height: 33px;
+            font-size: 10px;
+            border-bottom: 2px solid #3375f6; */
+        
+        /* ::placeholder{
+        color: #3375F6 !important ;
+        font-size:10px;
+        opacity: 0.9 !important; */
+      /* } */
+    
+        .each {
+            font-size: 8px !important;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            margin-left: -40px;
+            margin-top: -60px;
+        }
+    
+        .btn5 {
+            margin-left: 110px;
+            margin-top: 30px;
+            font-size: 8px;
+            width: 80px;
+            padding: 7px 1px;
+        }
+        .thursday {
+           padding: 10px 10px !important;
+        }
+        .candidate {
+            font-size: 11px;
+        }
+        .domain {
+            font-size: 10px;
+        }
+        .cardvs {
+        margin: 30px 10px !important;
+        padding: 30px 0px !important;
+        }
+        
+        .round1 {
+            height: 80px !important;
+            width: 80px !important;
+            
+        }
+        
+        .blue1 {
+            font-size: 30px !important;
+            font-weight: 650;
+        }
+        
+        .account1 {
+            font-size: 15px !important;
+        }
+        
+        .okay {
+            font-size: 15px;
+        }
+    }
+
+
+
+
+    @media screen and (max-width:575px) {
+        .cardess {
+            padding: 50px !important;
+            margin: 20px !important;
+        }
+        .cardess .unable {
+            font-size: 14px !important;
+        }
+        .cardess .Again {
+            padding: 10px;
+            font-size: 16px;
+        }
+        .cardvs .thursday .d-flex {
+            display: block !important;
+        }
+        .cardvs .thursday .d-flex .candidate {
+            margin-bottom: 10px;
+        }
+        .bkgnds1 {
+            margin-top: 0 !important;
+        }
+        .rs-counter.style3 .counter-top-area .counter-list .counter-text .title {
+            font-size: 17px !important;
+        }
+        .job2-super {
+            font-size: 40px !important;
+        }
+        .vlsi-header .row {
+            display: flex !important;
+        }
+    }
+    @media screen and (max-width:400px) {
+        .cardess {
+            padding: 24px !important;
+        }
+        .cardvs .thursday .d-flex .candidate {
+            font-size: 17px;
+        }
+        .cardvs .thursday .d-flex .domain {
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        .vlsi-header {
+            margin-top: 120px;
+        }
+    }

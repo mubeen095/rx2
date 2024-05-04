@@ -1,0 +1,20 @@
+.item {
+    transition: .1s ease-in-out;
+}
+
+.item:hover {
+    filter: brightness(100%);
+}
+.card1-content:hover{
+    /* pointer-events: none !important; */
+    filter: brightness(20%);
+}
+.card2-content:hover{
+    /* pointer-events: none !important; */
+    /* filter: brightness(100%); */
+    /* color: aliceblue !important; */
+    filter: brightness(480%);
+}
+.box-content:hover{
+    filter: brightness(700%);
+}

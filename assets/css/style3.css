@@ -1,0 +1,447 @@
+/* @media only screen and (max-width: 415px) {
+    .container {
+        padding: 20px 10px;
+    }
+
+    .contacts1 {
+        background: #000000;
+        margin-top: -40px;
+        height: 110px !important;
+    }
+
+    .contacts1 .blue1-102 {
+        transform: rotate(-2deg);
+        height: 120px;
+        width: 120px;
+        margin-left: -7%;
+    }
+
+    .contacts1 .green1 {
+        filter: blur(1px);
+        margin-top: -45px;
+        height: 20px;
+        width: 20px;
+        margin-left: 50px;
+    }
+
+    .contacts1 .red2 {
+        filter: blur(1px);
+        margin-top: -15%;
+        margin-left: 110px;
+        height: 20px;
+        width: 20px;
+    }
+
+    .contacts1 .purple3 {
+        filter: blur(2px);
+        margin-top: 1%;
+        margin-left: 125px;
+        height: 20px;
+        width: 20px;
+    }
+
+    .contacts1 .blue4 {
+        filter: blur(1px);
+        margin-top: 2%;
+        margin-left: 60px;
+        height: 20px;
+        width: 20px;
+    }
+
+    .contacts1 .card-contact {
+        font-size: 20px;
+        margin-top: -110px;
+    }
+
+    .contacts1 .card-get-in {
+        font-size: 6px;
+        margin-left: 85px;
+    }
+
+
+    .contacts1 .cropped-ofpp {
+        margin-left: 70%;
+        margin-top: -210px;
+        height: 120px;
+        width: 120px !important;
+    }
+
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: -30px;
+    }
+
+    .cards {
+        margin: 5px;
+        width: 48%;
+        background-color: #fff;
+        border-radius: 0.25rem;
+    }
+
+    .cards .card-image {
+        width: 30px;
+        height: 30px;
+    }
+
+    .cards .card-content .card-title {
+        font-size: 12px;
+    }
+
+    .cards .card-content .card-text1 {
+        font-size: 10px;
+        line-height: 30px;
+    }
+
+    .cards1 {
+        background: #fbfbfb;
+        margin: 5px;
+        width: 48%;
+        float: right;
+        margin-top: -426px;
+    }
+
+    .cards2 {
+        margin: 5px;
+        width: 48%;
+        float: right;
+        margin-top: -211px;
+        height: 205px;
+    }
+
+    .cards1 .card-image {
+        width: 30px;
+        height: 30px;
+    }
+
+    .cards2 .card-image {
+        width: 30px;
+        height: 30px;
+    }
+
+    .cards1 .card-content .card-title {
+        font-size: 12px;
+    }
+
+    .cards1 .card-content .card-text1 {
+        font-size: 10px;
+        line-height: 30px;
+    }
+
+    .cards2 .card-content .card-title2 {
+        font-size: 12px;
+    }
+
+    .cards2 .card-content .card-text2 {
+        font-size: 10px;
+        line-height: 25px;
+    }
+
+
+    .cards .card-content .icon-link {
+        font-size: 10px;
+        margin-top: -20px;
+    }
+
+    .cards1 .card-content .icon-link {
+        font-size: 10px;
+        margin-top: -20px;
+    }
+
+    .cards2 .card-content .icon-link {
+        font-size: 10px;
+        margin-top: -20px;
+    }
+
+    .faqclass{
+        margin: 0px 1px 0px 13px !important;
+        margin-top: -130px !important;
+        margin-bottom: -130px !important;
+        }
+
+    .faq-card .faq-text .fas {
+        color: #7e7e7e;
+        margin: 17px 0px 0px 0px;
+    }
+
+    .faq-card .faq-text .img-fluid {
+        height: 20px;
+        width: 20px;
+        margin-top: 9px;
+    }
+
+    .faq-card .faq-text {
+        font-size: 12px;
+    }
+    .faqans{
+        font-size: 12px !important;
+    }
+
+    .accordion {
+        margin-top: 10px;
+    }
+
+    .collapse {
+        display: none;
+    }
+
+    .collapse.show {
+        display: block;
+    }
+
+    .accordion-content {
+        display: none;
+    }
+
+    .accordion-content.show {
+        display: block;
+    }
+    
+}
+
+.contacts1 {
+    background: #000000 !important;
+}
+
+.blue1-102 {
+    transform: rotate(-2deg);
+    margin-top: -20%;
+    margin-left: 3%;
+    
+}
+
+
+.green1 {
+    filter: blur(1px);
+    margin-top: -105px;
+}
+
+.red2 {
+    filter: blur(2px);
+    margin-top: -12%;
+    margin-left: 215px;
+}
+
+.purple3 {
+    filter: blur(2px);
+    margin-top: 1%;
+    margin-left: 280px;
+}
+
+.blue4 {
+    filter: blur(1px);
+    margin-top: 1%;
+    margin-left: 70px;
+}
+
+.card-contact {
+    font-family: "Poppins";
+    font-size: 80px;
+    font-weight: normal;
+    font-style: normal;
+    color: #ffffff;
+    margin-top: -50px;
+}
+
+.card-get-in {
+    font-family: "Poppins";
+    font-size: 18.5px;
+    font-weight: 500;
+    font-style: normal;
+    color: #fdfbfb;
+    margin-top: -30px;
+}
+
+
+.cropped-ofpp {
+    transform: rotate(240deg);
+    margin-top: -40%;
+    width: 115% !important;
+    margin-left: -100px;
+    
+}
+
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.fas {
+    color: #7e7e7e;
+    margin-top: 10px;
+}
+
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.16));
+    border-radius: 0.25rem;
+}
+
+.cards1 {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.16));
+    border-radius: 0.25rem;
+}
+
+.cards2 {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.16));
+    border-radius: 0.25rem;
+}
+
+.card-title {
+    font-family: "Poppins";
+    font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+}
+
+.card-title2 {
+    font-family: "Poppins";
+    font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+}
+
+.card-text1 {
+    font-family: "poppins";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    font-style: normal;
+
+}
+
+.card-text2 {
+    font-family: "poppins";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    font-style: normal;
+    margin-top: -11px;
+}
+
+.icon-link {
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 900;
+    font-style: normal;
+    color: #3375f6;
+}
+
+.collapse {
+    display: none;
+}
+
+.collapse.show {
+    display: block;
+}
+
+.accordion-content {
+    display: none;
+}
+
+.accordion-content.show {
+    display: block;
+}
+
+.faqclass{
+    margin: 0px 100px  0px 100px;
+    margin-top: -50px;
+    margin-bottom: -90px;
+}
+
+.faq1 {
+    
+    position: absolute;
+    width: 591px;
+    height: 45px;
+    left: 0px;
+}
+
+.imgs-fluid {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 5px;
+}
+
+.faq-text {
+    font-family: "poppins";
+    font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+}
+
+.faqans{
+    font-family: "poppins";
+    font-size: 23px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+
+ */
+
+ @media screen and (max-width: 365px){
+
+ div#paymentModal {
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: -28px;
+    padding-left: 0px;
+}
+
+    div#paymentModal .like1{
+
+    font-weight: 500;
+    font-size: 25px;
+    font-size: 15px;
+
+    }
+ }
+
+ 
+ @media screen and (max-width: 385px){
+
+    div#paymentModal {
+       display: block;
+       padding-top: 0px;
+       padding-bottom: 0px;
+       margin-left: -28px;
+       padding-left: 0px;
+   }
+   
+       div#paymentModal .like1{
+   
+       font-weight: 500;
+       font-size: 25px;
+       font-size: 15px;
+   
+       }
+    }
+ 
+

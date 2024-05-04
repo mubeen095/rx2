@@ -1,0 +1,493 @@
+.greenee {
+    padding: 90px 100px !important;
+    background:  #d9f0ff;
+    
+}
+
+.cardess {
+   
+    border-radius: 10px;
+    padding: 140px 50px !important;
+    filter: drop-shadow(9px 10px 13px rgba(0, 0, 0, 0.16));
+    background: #ffffff;
+    margin:30px 20px !important;
+}
+
+
+
+.whoops {
+    font-size: 45px;
+    font-family: "poppins";
+    text-align: left;
+    font-weight:650;
+}
+
+.unable {
+    font-size: 22px;
+    font-family: "poppins";
+    text-align: left;
+    font-weight:600;
+}
+.fileimg{
+    
+}
+
+.Again {
+    font-size:22px;
+    border-color: #007bffb0;
+    border-width: 2px;
+    border-style: solid;
+    font-family: "poppins";
+    border-radius: 5px;
+    font-weight: 500;
+    color: #007bffb0;
+    padding: 10px 20px;
+   
+}
+
+
+
+.cardcsone {
+    border-color: #707070;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 41px;
+    margin: 0px 20px 40px 20px;
+    padding: 100px 100px 180px 100px;
+    filter: drop-shadow(9px 10px 13px rgba(0, 0, 0, 0.16));
+    background: #ffffff;   
+}
+.verify h1 {
+   
+    font-family: "poppins";
+    font-size: 55px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+}
+
+.verify .bowss {
+    height: 110px;
+    /* margin: -50px 10px !important; */
+}
+
+.Enterone {
+    /* width: 93%; */
+    height: 85px;
+    /* opacity: 0.19; */
+    border-radius: 8px;
+    background: #e3e2e2;
+    margin: 80px 20px 80px 0px;
+
+}
+
+.form-label {
+
+    /* line-height:90px; */
+    opacity: 0.71 !important;
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #3375f6;
+    /* margin-top: 20px;
+    margin-left: 30px; */
+}
+
+.certi-form input[type=text] {
+    width: 99%;
+    margin: -30px 3px;
+    padding: 40px 30px !important;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 3px solid #3375f6;
+}
+.certi-form ::placeholder{
+    color: #3375F6 !important ;
+    font-size:20px;
+    opacity: 0.9 !important;
+  }
+  
+
+.eachone {
+
+    font-family: "poppins";
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    /* letter-spacing: 2px; */
+    color: #707070;
+    margin: 30px 10px;
+}
+
+.btn6 {
+    padding: 10px 40px !important;
+    border-color: #3375f6;
+    border-radius: 30px;
+    filter: drop-shadow(4px 4px 3.5px rgba(0, 0, 0, 0.51));
+    background: #3375f6;
+    font-family: "poppins";
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    margin: 20px 350px;
+    /* width: 150px; */
+}
+
+
+.bubble {
+        
+    background: #3375F6;
+    opacity: 0.9;
+    padding: 30px 10px;
+   
+}
+
+.cardvs {
+    border-radius: 21px;
+    filter: drop-shadow(9px 10px 13px rgba(0, 0, 0, 0.16));
+    background: #ffffff;
+    padding: 30px 10px;
+    margin: 20px 100px !important;
+}
+
+.fully {}
+
+.okay {
+    color: white;
+    font-family: "poppins";
+    background: #3375F6;
+    padding: 12px 50px;
+    font-size: 22px;
+    border: 0;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+    font-weight: 500;
+    margin: 30px 10px;
+    color: #ffffff;
+    filter: drop-shadow(3px 4px 2.5px rgba(0, 0, 0, 0.51));
+}
+.okay:hover {
+    color:white;    
+}
+.blue1 {
+    font-size: 40px;
+    font-family: "poppins";
+    text-align: center;
+}
+
+.account1 {
+    font-size: 20px;
+    font-family: "poppins";
+    text-align: center;
+}
+
+
+.round1 {
+    height: 120px;
+    }
+.candidate {
+    font-size:18px ;
+}
+.domain {
+    font-size:16px ;
+}
+
+
+
+@media screen and (max-width: 376px) {
+    .greenee {
+        padding: 20px 1px 10px 10x !important;
+    }
+        
+        .cardess {
+            padding:40px 10px !important;
+            margin:70px 20px !important;
+        }
+        
+        .whoops{
+            font-size: 24px !important;
+                font-weight: 650;
+                text-align: left;
+        }
+        .unable{
+            margin-top: -15px !important;
+            font-size: 8px !important;
+            font-weight: 650;
+            text-align: left;
+        }
+        .Again {
+            margin-top: -16px !important;
+            font-size: 10px; 
+            width:100px;
+            padding:5px 10px;
+        }
+        .fileimg1{
+            height: 110px !important;
+            margin-top: 15px; 
+        }
+        .cardcsone {
+          padding: 30px 60px 110px 10px !important;
+           margin: -30px 10px 10px 10px;;
+        }
+    
+        .newcerti {
+            /* margin-left: -5px;
+            margin-top: -30px; */
+    
+        }
+    
+        .verify h1 {
+            font-size: 19px;
+            font-weight: normal;
+            font-style: normal;
+            text-align: left;
+           margin: 0px 23px;
+        }
+    
+        .verify .bowss {
+            height: 40px;
+            /* margin: 0px 300px; */
+            margin-left: 260px;
+            margin-top: -30px !important;
+            
+        }
+    
+        .Enterone {
+            width: 100%;
+            height: 40px;
+           margin: 0px 0px -10px 10px !important;
+        }
+    
+        .form-label {
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            text-align: left;
+        }
+    
+        .certi-form input[type=text] {
+    padding: 0px 10px !important;
+    height: 37px;
+    border-bottom: 2px solid #3375f6;
+        }
+        .certi-form::placeholder{
+        color: #3375F6 !important ;
+        font-size:5px !important;
+        opacity: 0.9 !important;
+      }
+        .eachone {
+            font-size: 7px !important;
+            font-weight: normal;
+            font-style: normal;
+            margin-left: 8px;
+        }
+    
+        .btn6 {
+           margin: -20px 100px;
+            font-size: 10px;
+            width: 80px;
+            height:30px;
+            padding: 8px 10px !important;
+        }
+        .thursday {
+           padding: 10px 10px !important;
+        }
+        .candidate {
+            font-size: 11px;
+        }
+        .domain {
+            font-size: 10px;
+        }
+        .cardvs {
+        margin: 30px 10px !important;
+        padding: 30px 0px !important;
+        }
+        
+        .round1 {
+            height: 80px !important;
+            width: 80px !important;
+            
+        }
+        
+        .blue1 {
+            font-size: 30px !important;
+            font-weight: 650;
+        }
+        
+        .account1 {
+            font-size: 15px !important;
+        }
+        
+        .okay {
+            font-size: 15px;
+        }
+    }
+
+    @media (min-width: 377px) and (max-width: 600px) {
+        .greenee {
+            padding: 20px 1px 10px 10x !important;
+        }
+            
+            .cardess {
+                padding:40px 10px !important;
+                margin:70px 20px !important;
+            }
+            
+            .whoops{
+                font-size: 24px !important;
+                    font-weight: 650;
+                    text-align: left;
+            }
+            .unable{
+                margin-top: -15px !important;
+                font-size: 8px !important;
+                font-weight: 650;
+                text-align: left;
+            }
+            .Again {
+                margin-top: -16px !important;
+                font-size: 10px; 
+                width:100px;
+                padding:5px 10px;
+            }
+            .fileimg1{
+                height: 110px !important;
+                margin-top: 15px; 
+            }
+            .cardcsone {
+              padding: 40px 50px 150px 10px !important;
+               margin: -30px 10px 50px 10px;;
+            }
+        
+            .newcerti {
+                /* margin-left: -5px;
+                margin-top: -30px; */
+        
+            }
+        
+            .verify h1 {
+                font-size: 21px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+               margin: -10px 20px 0px 20px;
+            }
+        
+            .verify .bowss {
+                height: 40px;
+                /* margin: 0px 300px; */
+                margin-left: 280px;
+                margin-top: -30px !important;
+                
+            }
+        
+            .Enterone {
+                width: 100%;
+                height: 40px;
+               margin: 20px 0px -40px 10px !important;
+            }
+        
+            .form-label {
+                font-size: 12px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+            }
+        
+            .certi-form input[type=text] {
+                padding: 0px 10px !important;
+                height: 37px;
+                border-bottom: 2px solid #3375f6;
+            }
+            .certi-form::placeholder{
+            color: #3375F6 !important ;
+            font-size:5px !important;
+            opacity: 0.9 !important;
+          }
+            .eachone {
+                font-size: 7px !important;
+                font-weight: normal;
+                font-style: normal;
+                margin-left: 5px;
+            }
+        
+            .btn6 {
+               margin: -10px 110px;
+                font-size: 10px;
+                width: 80px;
+                height:30px;
+                padding: 8px 10px !important;
+            }
+            .thursday {
+               padding: 10px 10px !important;
+            }
+            .candidate {
+                font-size: 11px;
+            }
+            .domain {
+                font-size: 10px;
+            }
+            .cardvs {
+            margin: 30px 10px !important;
+            padding: 30px 0px !important;
+            }
+            
+            .round1 {
+                height: 80px !important;
+                width: 80px !important;
+                
+            }
+            
+            .blue1 {
+                font-size: 30px !important;
+                font-weight: 650;
+            }
+            
+            .account1 {
+                font-size: 15px !important;
+            }
+            
+            .okay {
+                font-size: 15px;
+            }
+        }
+        @media (min-width: 600px) and (max-width: 768px) {
+
+        }
+        @media (min-width: 768px) and (max-width: 1366px) {
+
+        }
+
+
+
+        @media screen and (max-width:575px) {
+            .cardcsone {
+                margin-top: 100px !important;
+            }
+            .certi-form .btn6 {
+                font-size: 18px;
+                width: 100px;
+                height: 40px;
+                padding: 0 10px !important;
+            }
+            .eachone {
+                font-size: 12px !important;
+            }
+            .verify .bowss {
+                margin-left: 215px;
+            }
+        }
+        @media screen and (max-width:400px) {
+            .cardcsone {
+                padding: 20px 40px 125px 0px !important;
+            }            
+            .verify .bowss {
+                margin-left: 200px;
+            }
+        }

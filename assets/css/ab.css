@@ -1,0 +1,1480 @@
+
+.e1 {
+
+    /* Ellipse 1087 */
+
+    width: 64px;
+    height: 64px;
+    margin-left: 150px;
+    margin-top: 80px;
+    margin-bottom: -150px !important;
+    border-color: #4ebd1f;
+    filter: blur(-5px);
+}
+
+.e2 {
+
+    /* Ellipse 1088 */
+
+    width: 84px;
+    height: 90px;
+    margin-left: 500px;
+    margin-right: 10px;
+    padding-top: 50px;
+    border-color: #1481e1;
+    filter: blur(-5px);
+}
+
+.e3 {
+
+    /* Ellipse 1089 */
+
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    margin-left: 190px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+    filter: blur(-5px);
+}
+
+.e4 {
+
+    /* Ellipse 1066 */
+
+    position: absolute;
+    width: 154px;
+    height: 154px;
+    margin-left: 700px;
+    margin-top: 98px;
+    margin-bottom: 90px;
+}
+
+.int1 {
+
+    /* Intersection 1 */
+
+    position: absolute;
+    width: 195px;
+    height: 161px;
+    transform: rotate(-48deg);
+    margin-left: 662px;
+    margin-top: 456px;
+    margin-bottom: 90px;
+}
+
+.w1 {
+
+    /* Where Ideas are talked
+        About and Growth is focused upon */
+
+    padding-top: 70px;
+    font-family: "Poppins";
+    font-size: 64px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+    margin-left: -100px !important;
+}
+
+.text-white {
+
+    /* Rinex is an online Education platform, providing students with pristine study opportunities and a chance to learn and grow. Started with a vision to solve problems of students and make them job ready or exceptional in their fields.  With our extensive prog */
+
+    font-family: "Poppins";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 59px !important;
+    font-style: normal;
+    text-align: center !important;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 20px;
+    color: #ffffff;
+
+}
+
+.p {
+
+    /* 8000+ */
+
+    font-family: "Poppins";
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: 50px;
+    font-style: normal;
+    text-align: center;
+    color: #000000;
+}
+
+.p1 {
+
+    /* Rinex was founded in London,
+    With a vision to be the best and make the best */
+
+    font-family: "Poppins";
+    font-size: 22px;
+    line-height: 23px;
+    font-style: normal;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #000000;
+
+}
+
+
+.Sucs {
+
+
+    font-family: "Poppins";
+    font-size: 140px;
+    font-weight: bold;
+    /* line-height: 130px; */
+    text-align: center;
+    padding-top: 230px !important;
+}
+
+.round {
+
+    /* Rectangle 3559 */
+
+    position: center;
+    width: 500px;
+    height: 110px;
+    margin-top: 200px;
+    border-color: #000000;
+    border-width: 1px;
+    margin-left: 100px;
+    padding-left: 120px;
+    border-radius: 86px;
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.16));
+    background: #ffffff;
+}
+
+.box {
+
+    /* Contact Us */
+
+    font-family: "Poppins";
+    font-size: 65px;
+    font-weight: normal;
+    line-height: 60px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.dec {
+
+    /* Dedicated
+    Committed
+    Success. */
+
+    font-family: "Poppins";
+    font-size: 140px;
+    font-weight: bold;
+    line-height: 200px;
+    padding-left: 10px;
+    font-style: normal;
+    text-align: left;
+    color: #505050;
+}
+
+a1 {
+    margin: 20px;
+    -webkit-transition: color 1s;
+    /* For Safari 3.0 to 6.0 */
+    transition: color 1s;
+    /* For modern browsers */
+}
+
+a1:link {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a1:hover {
+    color: white;
+}
+
+.dec1 {
+
+    /* Driven by Creative Minds */
+
+    margin-top: 10px !important;
+    font-family: "Poppins";
+    font-size: 75px;
+    font-weight: bold;
+    padding-left: 90px;
+    font-style: normal;
+    text-align: center !important;
+    color: #000000;
+}
+
+.dec2 {
+
+    /* Our commitment and love for service is known to all. Our Alumni and people working with us define us with the best compliments. */
+
+    font-family: "Poppins";
+    font-size: 40px;
+    font-weight: normal;
+    line-height: 50px;
+    padding-left: 130px;
+    padding-right: 130px;
+    font-style: normal;
+    text-align: center;
+    color: #000000;
+}
+
+.blackbtn {
+
+    /* Rectangle 3559 */
+
+    position: center;
+    width: 480px !important;
+    height: 90px;
+    border-radius: 76px;
+    margin-top: 40px !important;
+    margin-bottom: 100px !important;
+    margin-left: 320px;
+    background: #000000;
+}
+
+.viewj {
+
+    /* View all job offers */
+
+    position: center;
+    padding-top: 27px;
+    margin-left: 40px;
+    font-family: "Poppins";
+    font-size: 35px;
+    font-weight: normal;
+    line-height: 40px;
+    font-style: normal;
+    text-align: left;
+
+}
+
+.ab {
+
+    /* About us */
+
+    font-family: "Poppins";
+    font-size: 75px !important;
+    /* margin-top: 50px !important; */
+    font-weight: normal;
+    font-style: normal;
+    color: #ffffff;
+}
+
+
+.viewa {
+
+    /* Icon ionic-ios-arrow-round-forward */
+
+    position: center;
+    margin-bottom: 20px;
+    margin-left: 340px;
+    margin-top: -39px;
+}
+
+.s1 {
+
+    /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+
+    font-family: "Poppins";
+    font-size: 34px;
+    height: fit-content;
+    width: fit-content;
+    font-weight: normal;
+    line-height: 45px;
+    font-style: normal;
+    text-align: left;
+}
+
+.s3 {
+
+    /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+
+    font-family: "Poppins";
+    font-size: 34px;
+    height: fit-content;
+    width: fit-content;
+    font-weight: normal;
+    line-height: 45px;
+    font-style: normal;
+    text-align: left;
+}
+
+
+.s4 {
+
+    /* The Technical Support Team is international, multilingual and always ready to go above and beyond for our merchants. When customers have a problem, they listen, analyse, solve and empower. They are true Mollie champions and we hope you will be one of them  */
+    font-family: "Poppins";
+    font-size: 34px;
+    font-weight: normal;
+    height: fit-content;
+    width: fit-content;
+    line-height: 45px;
+    font-style: normal;
+    text-align: left;
+}
+
+.rec35 {
+
+    /* Rectangle 3577 */
+
+    width: 680px;
+    height: 900px;
+    margin-left: -400px;
+    transform: rotate(90deg);
+
+}
+
+.redc {
+
+    /* Ellipse 1067 */
+
+    width: 280px;
+    border-radius: 50%;
+    margin-top: 540px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+
+.purplec {
+
+    /* Ellipse 1068 */
+
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    margin-top: -430px;
+    margin-right: 20px;
+    margin-left: 360px;
+    background: #7218e7;
+}
+
+
+
+
+.con {
+
+    background-color: black;
+    margin-top: 50px;
+    padding-bottom: 330px;
+    padding-top: 100px;
+}
+
+.pol1 {
+
+    /* Polygon 12 */
+
+    position: absolute;
+    width: 1290px;
+    height: 800px;
+    transform: rotate(1deg);
+    margin-left: 600px;
+    margin-top: -890px;
+}
+
+.pol2 {
+
+    /* Polygon 13 */
+
+    position: absolute;
+    width: 870px;
+    height: 870px;
+    transform: rotate(-1deg);
+    margin-left: -175px;
+    margin-top: 600px;
+    margin-bottom: -50px;
+}
+
+/* .imgsucs{
+    height:670px;
+    width: 1600px;
+} */
+
+.rec1 {
+    width: 900px;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+.cen {
+
+    /* Ellipse 1090 */
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin-left: 481px;
+    margin-top: -60px;
+    margin-bottom: 200px;
+    filter: blur(2px);
+}
+
+
+
+@media screen and (max-width:376px){
+
+    .e1 {
+
+        /* Ellipse 1087 */
+
+        width: 23px;
+        margin-left: 60px;
+        margin-top: 30px;
+        margin-bottom: -90px;
+    }
+
+    .e2 {
+
+        /* Ellipse 1088 */
+
+        width: 25px;
+        margin-left: 140px;
+        margin-top: 40px;
+        margin-bottom: -70px;
+    }
+
+    .e3 {
+
+        /* Ellipse 1089 */
+
+        width: 30px;
+        margin-left: 70px;
+        margin-top: -80px;
+
+    }
+
+    .w1 {
+        font-size: 18px !important;
+        padding-left: 130px;
+        margin-bottom: 100px;
+    }
+
+    .e4 {
+
+        /* Ellipse 1066 */
+
+        width: 54px;
+        height: 54px;
+        margin-left: 200px;
+        margin-top: -80px;
+
+    }
+
+    .int1 {
+        /* Intersection 1 */
+
+        width: 66px;
+        height: 59px;
+        margin-left: 185px;
+        margin-top: 134px;
+    }
+
+    .rec1 {
+        width: 340px;
+        margin-left: 55%;
+        margin-top: -58%;
+        z-index: -1;
+        position: absolute;
+    }
+
+    .cen {
+
+        /* Ellipse 1090 */
+
+        width: 25px;
+        margin-left: 160px;
+        margin-top: -24px;
+        margin-bottom: 200px;
+
+    }
+
+    .ab {
+        font-size: 20px !important;
+
+    }
+
+    .text-white {
+        margin-top: 0px;
+        font-size: 13px;
+        line-height: 22px !important;
+        margin-left: 8px;
+        margin-right: 8px;
+
+
+    }
+
+    .cardimg {
+        width: 200px;
+        height: 200px;
+    }
+
+    .p {
+
+        /* 8000+ */
+        font-size: 27px;
+        margin-top: 20px;
+    }
+
+    .p1 {
+
+        /* Rinex was founded in London,
+    With a vision to be the best and make the best */
+        font-size: 17px;
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }
+
+    .rec35 {
+
+        /* Rectangle 3577 */
+        margin-top: -200px;
+        width: 320px;
+        padding-top: 10%;
+
+
+    }
+
+    .redc {
+
+        /* Ellipse 1067 */
+
+        width: 110px;
+        margin-top: 270px;
+        margin-left: 30px;
+
+    }
+
+    .purplec {
+
+        /* Ellipse 1068 */
+
+        width: 28px;
+        height: 28px;
+        margin-top: -170px;
+        margin-left: 160px;
+    }
+
+    .s1 {
+
+        /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+
+        font-size: 14px;
+    margin-top: -745px;
+    line-height: 18px;
+    margin-left: 150px;
+
+    }
+
+
+    .s3 {
+
+        /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+
+        font-size: 14px;
+        line-height: 18px;
+        margin-left: 150px;
+        margin-top: -30px;
+
+    }
+
+
+
+    .s4 {
+
+        /* The Technical Support Team is international, multilingual and always ready to go above and beyond for our merchants. When customers have a problem, they listen, analyse, solve and empower. They are true Mollie champions and we hope you will be one of them  */
+
+        margin-top: -10px;
+        font-size: 15px;
+        line-height: 20px;
+        /* margin-left: 5px; */
+        
+
+    }
+
+    .dec {
+
+        /* Dedicated
+        Committed
+        Success. */
+
+        font-size: 30px;
+        line-height: 25px;
+
+    }
+
+    .pol1 {
+
+        /* Polygon 12 */
+
+        width: 470px;
+        margin-left: 100px;
+        margin-top: -250px;
+    }
+
+    .pol2 {
+
+        /* Polygon 13 */
+
+        width: 370px;
+        margin-left: -110px;
+        margin-top: 190px;
+    }
+
+    .con {
+        margin-top: -130px;
+        padding-bottom: 200px;
+        padding-top: 10px;
+    }
+   
+
+    .Sucs {
+
+        font-size: 35px;
+        margin-top: -180px;
+    }
+
+    .dec1 {
+
+        /* Driven by Creative Minds */
+
+        padding-left: 5px;
+        font-size: 25px;
+        margin-top: -20px !important;
+
+    }
+
+    .dec2 {
+
+        /* Our commitment and love for service is known to all. Our Alumni and people working with us define us with the best compliments. */
+
+        font-size: 15px;
+        line-height: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-bottom: -20px;
+        /* margin-top: -20px; */
+
+    }
+
+    .blackbtn {
+
+        /* Rectangle 3559 */
+
+
+        width: 150px !important;
+        height: 35px;
+        margin-left: 85px;
+        margin-bottom: 30px !important;
+    }
+
+
+    .viewj {
+
+        /* View all job offers */
+
+        margin-top: -28px;
+        font-size: 11px;
+        margin-left: 11px;
+        padding-top: 0;
+        line-height: 35px;
+
+    }
+
+    .viewa {
+
+        /* Icon ionic-ios-arrow-round-forward */
+
+        width: 20px;
+        margin-left: 108px;
+        margin-top: -35px;
+    }
+
+}
+@media (min-width:377px) and (max-width:600px){
+
+    .e1 {
+
+        /* Ellipse 1087 */
+
+        width: 23px;
+        margin-left: 60px;
+        margin-top: 30px;
+        margin-bottom: -90px;
+    }
+
+    .e2 {
+
+        /* Ellipse 1088 */
+
+        width: 25px;
+        margin-left: 140px;
+        margin-top: 40px;
+        margin-bottom: -70px;
+    }
+
+    .e3 {
+
+        /* Ellipse 1089 */
+
+        width: 30px;
+        margin-left: 70px;
+        margin-top: -80px;
+
+    }
+
+    .w1 {
+        font-size: 18px !important;
+        padding-left: 130px;
+        margin-bottom: 100px;
+    }
+
+    .e4 {
+
+        /* Ellipse 1066 */
+
+        width: 54px;
+        height: 54px;
+        margin-left: 200px;
+        margin-top: -80px;
+
+    }
+
+    .int1 {
+        /* Intersection 1 */
+
+        width: 66px;
+        height: 59px;
+        margin-left: 185px;
+        margin-top: 134px;
+    }
+
+    .rec1 {
+        width: 340px;
+        margin-left: 55%;
+        margin-top: -53%;
+        z-index: -1;
+        position: absolute;
+    }
+
+    .cen {
+
+        /* Ellipse 1090 */
+
+        width: 25px;
+        margin-left: 160px;
+        margin-top: -24px;
+        margin-bottom: 200px;
+
+    }
+
+    .ab {
+        font-size: 20px !important;
+        margin: -10px 0px 7px 0px;
+
+    }
+
+    .text-white {
+        margin-top: -5px;
+        font-size: 16px;
+        line-height: 40px !important;
+        margin-left: 5px;
+        margin-right: 5px;
+
+
+    }
+
+    .cardimg {
+        width: 200px;
+        height: 200px;
+    }
+
+    .p {
+
+        /* 8000+ */
+        font-size: 27px;
+        margin-top: 20px;
+    }
+
+    .p1 {
+
+        /* Rinex was founded in London,
+    With a vision to be the best and make the best */
+        font-size: 17px;
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }
+
+    .rec35 {
+
+        /* Rectangle 3577 */
+        margin-top: -200px;
+        width: 320px;
+        padding-top: 10%;
+
+
+    }
+
+    .redc {
+
+        /* Ellipse 1067 */
+
+        width: 110px;
+        margin-top: 270px;
+        margin-left: 30px;
+
+    }
+
+    .purplec {
+
+        /* Ellipse 1068 */
+
+        width: 28px;
+        height: 28px;
+        margin-top: -170px;
+        margin-left: 160px;
+    }
+
+    .s1 {
+
+        /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+
+        font-size: 14px;
+        margin-top: -730px;
+        line-height: 20px;
+        margin-left: 150px;
+
+    }
+
+
+    .s3 {
+
+        /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+
+        font-size: 14px;
+        line-height: 20px;
+        margin-left: 150px;
+        margin-top: -30px;
+
+    }
+
+    .s2 {
+
+        /* The Technical Support Team is international, multilingual and always ready to go above and beyond for our merchants. When customers have a problem, they listen, analyse, solve and empower. They are true Mollie champions and we hope you will be one of them  */
+
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 20px;
+        margin-left: 5px;
+        margin-bottom: -500px !important;
+        font-weight: normal;
+
+    }
+
+    .s4 {
+
+        /* The Technical Support Team is international, multilingual and always ready to go above and beyond for our merchants. When customers have a problem, they listen, analyse, solve and empower. They are true Mollie champions and we hope you will be one of them  */
+
+        margin-top: 30px;
+        font-size: 15px;
+        line-height: 22px;
+        margin-left: 5px;
+        font-weight: normal;
+
+    }
+
+    .dec {
+
+        /* Dedicated
+        Committed
+        Success. */
+
+        font-size: 30px;
+        line-height: 25px;
+
+    }
+
+    .pol1 {
+
+        /* Polygon 12 */
+
+        width: 470px;
+        margin-left: 100px;
+        margin-top: -250px;
+    }
+
+    .pol2 {
+
+        /* Polygon 13 */
+
+        width: 370px;
+        margin-left: -110px;
+        margin-top: 190px;
+    }
+
+    .con {
+        margin-top: -130px;
+        padding-bottom: 200px;
+        padding-top: 10px;
+    }
+   
+
+    .Sucs {
+
+        font-size: 35px;
+        margin-top: -180px;
+    }
+
+    .dec1 {
+
+        /* Driven by Creative Minds */
+
+        padding-left: 49px;
+        font-size: 25px;
+        margin-top: -20px !important;
+
+    }
+
+    .dec2 {
+
+        /* Our commitment and love for service is known to all. Our Alumni and people working with us define us with the best compliments. */
+
+        font-size: 15px;
+        line-height: 20px;
+        padding-left: 60px;
+        padding-right: 60px;
+        margin-bottom: -20px;
+        /* margin-top: -20px; */
+
+    }
+
+    .blackbtn {
+
+        /* Rectangle 3559 */
+
+
+        width: 150px !important;
+        height: 35px;
+        margin-left: 127px;
+        margin-bottom: 30px !important;
+    }
+
+
+    .viewj {
+
+        /* View all job offers */
+
+        margin-top: -28px;
+        font-size: 11px;
+        margin-left: 11px;
+        padding-top: 0;
+
+    }
+
+    .viewa {
+
+        /* Icon ionic-ios-arrow-round-forward */
+
+        width: 20px;
+        margin-left: 108px;
+        margin-top: -40px;
+    }
+
+}
+
+@media (min-width:769px) and (max-width:1366px){
+    .e1 {
+
+        /* Ellipse 1087 */
+    
+        width: 50px;
+        /* height: 64px; */
+        margin: 30px 0px -170px 50px !important;
+    }
+    
+    .e2 {
+    
+        /* Ellipse 1088 */
+    
+        width: 54px;
+        /* height: 90px; */
+        margin: 0px 10px 0px 250px;
+        padding-top: 90px;
+    }
+    
+    .e3 {
+    
+        /* Ellipse 1089 */
+    
+        width: 50px;
+        /* height: 90px; */ 
+        margin: 10px 100px 0px 150px;
+    }
+    
+    .e4 {
+    
+        /* Ellipse 1066 */
+    
+        width: 60px;
+        height: 60px;
+        margin: 88px 300px 90px;
+    }
+    
+    .int1 {
+    
+        /* Intersection 1 */
+        
+        width: 75px;
+        /* height: 161px; */
+        margin: 238px 320px 90px ;
+    }
+    
+    .w1 {
+    
+        font-size: 30px;
+        margin:0px 0px 0px 20px !important;
+    }
+    
+    .text-white {
+    
+        /* Rinex is an online Education platform, providing students with pristine study opportunities and a chance to learn and grow. Started with a vision to solve problems of students and make them job ready or exceptional in their fields.  With our extensive prog */
+    
+        font-size: 25px;
+        line-height: 26px !important;
+     
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0px;
+    
+    }
+    
+    .p {
+    
+        /* 8000+ */
+    
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    .p1 {
+    
+        /* Rinex was founded in London,
+        With a vision to be the best and make the best */
+    
+        font-size: 15px;
+        line-height: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+    
+    }
+    
+    
+    .Sucs {
+    
+        font-family: "Poppins";
+    font-size: 70px;
+    font-weight: bold;
+    /* line-height: 130px; */
+    text-align: center;
+    padding-top: 110px !important;
+    }
+    
+    .round {
+    
+        /* Rectangle 3559 */
+    
+        position: center;
+        width: 500px;
+        height: 110px;
+        margin-top: 200px;
+        border-color: #000000;
+        border-width: 1px;
+        margin-left: 100px;
+        padding-left: 120px;
+        border-radius: 86px;
+        filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.16));
+        background: #ffffff;
+    }
+    
+    .box {
+    
+        /* Contact Us */
+    
+        font-family: "Poppins";
+        font-size: 65px;
+        font-weight: normal;
+        line-height: 60px;
+        font-style: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    
+    .dec {
+    
+        /* Dedicated
+        Committed
+        Success. */
+    
+        font-size: 70px;
+        line-height: 100px;
+        padding-left: 10px;
+    }
+    
+    a1 {
+        margin: 20px;
+        -webkit-transition: color 1s;
+        /* For Safari 3.0 to 6.0 */
+        transition: color 1s;
+        /* For modern browsers */
+    }
+    
+    a1:link {
+        color: grey;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+    a1:hover {
+        color: white;
+    }
+    
+    .dec1 {
+    
+        /* Driven by Creative Minds */
+    
+        margin-top: -5px !important;
+    font-family: "Poppins";
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 40px;
+    font-style: normal;
+    text-align: center !important;
+    color: #000000;
+    }
+    
+    .dec2 {
+    
+        /* Our commitment and love for service is known to all. Our Alumni and people working with us define us with the best compliments. */
+        
+        font-family: "Poppins";
+        font-size: 30px;
+        font-weight: normal;
+        line-height: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+        font-style: normal;
+        text-align: center;
+        color: #000000;
+    }
+    
+    .blackbtn {
+    
+        /* Rectangle 3559 */
+    
+        width: 290px !important;
+        height: 50px;
+        border-radius: 76px;
+        margin-top: 10px !important;
+        margin-bottom: 50px !important;
+        margin-left: 220px;
+        background: #000000;
+    }
+    
+    .viewj {
+    
+        /* View all job offers */
+    
+        padding-top: 5px;
+    margin-left: 25px;
+    font-family: "Poppins";
+    font-size: 22px;
+    font-weight: normal;
+    /* line-height: 40px; */
+    font-style: normal;
+    text-align: left;
+    
+    }
+    
+    .ab {
+    
+        /* About us */
+    
+        font-size: 45px !important;
+        
+    }
+    
+    
+    .viewa {
+    
+        /* Icon ionic-ios-arrow-round-forward */
+        position: center;
+        margin-bottom: 20px;
+        margin-left: 210px;
+        margin-top: -39px;
+        width: 30px;
+    }
+    
+    .s1 {
+    
+        /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+    
+        font-size: 20px;
+        line-height: 25px;
+        
+    }
+    
+    .s3 {
+    
+        /* We are one of the leading online education platforms. Teaching and mentoring students to get to their higher potential. We at RineX aim to provide all round solutions to the problems faced by students. */
+    
+        font-size: 20px;
+        line-height: 25px;
+    }
+    
+    
+    .s4 {
+    
+        /* The Technical Support Team is international, multilingual and always ready to go above and beyond for our merchants. When customers have a problem, they listen, analyse, solve and empower. They are true Mollie champions and we hope you will be one of them  */
+        
+        font-size: 20px;
+        line-height: 25px;
+    }
+    
+    .rec35 {
+    
+        /* Rectangle 3577 */
+       
+        width: 480px;
+        /* height: 900px; */
+        margin-top: -170px;
+        margin-left: -395px;
+        transform: rotate(85deg);
+    
+    }
+    
+    .redc {
+    
+        /* Ellipse 1067 */
+    
+        width: 190px;
+        /* border-radius: 50%; */
+        margin-top: 300px;
+        margin-right: 50px;
+        margin-left: 50px;
+    
+    }
+    
+    .purplec {
+    
+        /* Ellipse 1068 */
+    
+        width: 48px;
+        height: 48px;
+        /* border-radius: 50%; */
+        margin-top: -310px;
+        margin-right: 20px;
+        margin-left: 270px;
+    }
+    
+    
+    
+    
+    .con {
+    
+        background-color: black;
+        margin-top: -90px;
+        padding-bottom: 300px;
+        padding-top: 10px;
+    }
+    
+    .pol1 {
+    
+        /* Polygon 12 */
+    
+        width: 800px;
+        height: 800px;
+        transform: rotate(1deg);
+        margin-left: 200px;
+        margin-top: -490px;
+    }
+    
+    .pol2 {
+    
+        /* Polygon 13 */
+
+        position: absolute;
+        width: 600px;
+        height: 870px;
+        transform: rotate(-1deg);
+        margin-left: -170px;
+        margin-top: 380px;
+        margin-bottom: -50px;
+    }
+    
+    /* .imgsucs{
+        height:670px;
+        width: 1600px;
+    } */
+    
+    .rec1 {
+        width: 500px;
+        margin-left: 0%;
+        margin-top: -30px;
+    
+    }
+    
+    .cen {
+    
+        /* Ellipse 1090 */
+    
+        width: 40px;
+        /* height: 80px; */
+        margin: -40px 250px 0px 230px;
+    }
+
+}
+@media (min-width:1800px) and (max-width:1920px){
+    .aboutus{
+        height: 470px;
+        width: 1920px;
+    }
+    .w1 {
+        /* Where Ideas are talked
+            About and Growth is focused upon */
+        margin: 0px 0px 0px -200px !important;
+        font-size: 75px;
+    }
+    
+.e1 {
+    /* Ellipse 1087 */
+    margin: 80px 0px -150px 70px;
+}
+
+.e2 {
+    /* Ellipse 1088 */
+    margin: 0px 10px 0px 450px;
+}
+.e3 {
+    /* Ellipse 1066 */
+    margin: 50px 0px 90px 150px;
+}
+.con {
+    background-color: black;
+    /* margin-top: 50px; */
+    padding-bottom: 330px;
+   
+} 
+.cen{
+    margin: -70px 0px 0px 551px;
+}
+.e4{
+    margin: 68px 0px 90px 700px;
+}
+
+.pol1 {
+
+    margin: -900px 0px 0px 900px;
+}
+
+.rec1 {
+    width: 1000px;
+    margin: 0% 0% 0% 60%;
+}
+.s1{
+    font-size: 44px;
+    margin: 0px 0px 0px -150px;
+    line-height: 55px;
+}
+.s3{
+    font-size: 44px;
+    margin: 0px 0px 0px -150px;
+    line-height: 55px;
+}
+.s4{
+    font-size: 44px;
+    margin: 30px 0px 0px -150px;
+    line-height: 55px;
+}
+.rec35{
+    width: 900px;
+    height: 900px;
+    margin-left: -300px;
+}
+.redc {
+    width: 380px;
+    border-radius: 50%;
+    margin: 510px 50px 0px 210px; 
+}
+.purplec{
+    margin: -490px 20px 0px 570px;
+}
+.dec {
+    font-family: "Poppins";
+    font-size: 178px;
+}
+.p1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.Sucs {
+    text-align: center;
+    padding-top: 350px !important;
+}
+}
+
+
+
+.about-start-section {
+    padding: 40px 0
+}
+@media (max-width:575px){
+    .about-start-section img.aboutus {
+        height: 290px;
+    }
+    .about-start-section {
+        padding: 20px 0
+    }
+    .row {
+        display: block !important;
+    }
+    .rec35, .section-purple-ball-about .card-img-overlay, .pol1 {
+        display: none;
+    }
+    .section-purple-ball-about .px-5 {
+        padding-left: 0 !important;
+    }
+    .section-purple-ball-about .py-4 {
+        padding-bottom: 0 !important;
+        padding-top: 15px !important;
+    }
+    .section-purple-ball-about .s1,  .section-purple-ball-about .s3, .section-purple-ball-about .s4 {
+        margin-top: 0 !important;
+        margin-left: 10px !important;
+        padding-right: 0 !important;
+        margin-bottom: 15px;
+    }
+    .con {
+        margin-top: -30px;
+        padding: 0;
+    }
+    .row.world-image {
+        display: flex !important;
+    }
+    .about-black-dog-btn .blackbtn {
+        margin: auto;
+    }
+
+}
